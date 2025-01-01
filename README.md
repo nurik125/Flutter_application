@@ -1,4 +1,4 @@
-#Steps
+# Steps
 1. Install flutter SDK
 2. Install flutter extention on VScode
 2. Create flutter project using VScode (Ctrl + Shift + P and [new flutter project])
